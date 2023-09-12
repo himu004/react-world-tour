@@ -1,0 +1,20 @@
+.country{
+    border: 1px solid salmon;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.country img {
+    
+    max-height: 160px;
+}
+
+.btn-visited{
+    padding: 15px 35px;
+    background: salmon;
+    border: none;
+    font-size: 20px;
+    border-radius: 10px;
+    margin: 10px;
+}
